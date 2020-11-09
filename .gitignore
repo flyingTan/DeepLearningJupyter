@@ -62,3 +62,6 @@ GTAGS
 # MAC files
 *.DS_Store
 .ipynb_checkpoints
+*.pth
+*.log
+.*
